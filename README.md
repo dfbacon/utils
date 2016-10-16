@@ -4,11 +4,7 @@
 
 Are you tired of having to create the assigned list of files and making sure the file names are perfect?
 
-I am. So I created a script to do it. Improve it. Make it better. Share!
-
-### Warning
-
-Make sure you don't run this script in a directory where you  have finished work.
+I am. So I created a script to do it. Improve it. Share!
 
 ### How to use it
 
