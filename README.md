@@ -10,7 +10,7 @@ I am. So I created a script to do it. Improve it. Share!
 
 1. Create an empty directory with the assigned name (e.g., 0x09-c_hates_kittens)
 
-2. Goto your assignment page and select all (CTRL-A)
+2. Goto your assignment page and select all (CTRL-A). If you want the advanced files to also be generated, make sure to click the "unlock" button at the bottom of the page.
 
 3. Create a file named "Files" in your assignment directory (created in step 1)
 
